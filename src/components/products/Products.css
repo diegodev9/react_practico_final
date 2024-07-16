@@ -1,0 +1,19 @@
+.card {
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.card img {
+  padding: 15px;
+  height: 200px;
+  width: auto;
+}
+.card .card-img {
+  text-align: center;
+  flex: 1 1 auto;
+}
+.card .card-body {
+  width: 100%;
+}
+
+/*# sourceMappingURL=Products.css.map */

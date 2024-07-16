@@ -1,0 +1,18 @@
+.card {
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+
+  img {
+    padding: 15px;
+    height: 200px;
+    width: auto;
+  }
+  .card-img {
+    text-align: center;
+    flex: 1 1 auto;
+  }
+  .card-body {
+    width: 100%;
+  }
+}
